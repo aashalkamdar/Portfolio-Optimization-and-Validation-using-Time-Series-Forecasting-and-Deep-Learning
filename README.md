@@ -6,7 +6,9 @@ For example - If you have 1 lakh available to invest in some stocks, the model t
 Here we have considered 3 stocks for analysis - 
 
 1] ICICI Bank (ICICI.BO)
+
 2] Hindustan Unilever Ltd (HINDUNILVR.BO)
+
 3] Larsen & Toubro (LT.BO)
 
 
